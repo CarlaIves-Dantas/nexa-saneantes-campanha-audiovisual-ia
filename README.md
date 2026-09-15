@@ -1,5 +1,9 @@
 # NEXA Saneantes — Campanha Audiovisual com IA
 
+<p align="center">
+  <img src="file_00000000e1ac820e82afb40bd05a332f.png" alt="Capa do projeto NEXA Saneantes — Apresentação da Linha de Produtos" width="100%">
+</p>
+
 Case fictício de produção audiovisual B2B desenvolvido para demonstrar o uso de inteligência artificial generativa, direção criativa, personagem virtual e edição na comunicação de uma marca de saneantes.
 
 > **Aviso:** a NEXA Saneantes é uma marca fictícia criada exclusivamente para fins de portfólio. Os produtos, embalagens, personagens e materiais apresentados neste projeto não representam uma empresa ou produto comercial real.
