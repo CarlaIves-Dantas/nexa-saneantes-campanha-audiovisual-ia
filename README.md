@@ -1,5 +1,15 @@
 # NEXA Saneantes — Campanha Audiovisual com IA
 
+🎥 **Assista ao vídeo no YouTube:**  
+[https://youtu.be/g3UcoU2q7po](https://youtu.be/g3UcoU2q7po)
+
+[![Capa do projeto NEXA](./file_00000000e1ac820e82afb40bd05a332f.png)](https://youtu.be/g3UcoU2q7po)
+
+## 📒 Descrição
+Case fictício de campanha audiovisual B2B para saneantes, criado com IA generativa, personagem virtual, direção criativa e edição no CapCut.
+
+# NEXA Saneantes — Campanha Audiovisual com IA
+
 <p align="center">
   <img src="file_00000000e1ac820e82afb40bd05a332f.png" alt="Capa do projeto NEXA Saneantes — Apresentação da Linha de Produtos" width="100%">
 </p>
