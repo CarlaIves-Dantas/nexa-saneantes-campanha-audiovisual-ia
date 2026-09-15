@@ -170,7 +170,7 @@ O resultado demonstra que a produção audiovisual com IA pode atingir nível co
 
 ### 🎥 Vídeo final
 
-O vídeo final do case será disponibilizado aqui por link após a publicação em plataforma de vídeo.
+**[▶ Assistir ao vídeo final da campanha NEXA Saneantes no YouTube](https://youtu.be/g3UcoU2q7po)**
 
 ## 🔬 Evolução do projeto
 
