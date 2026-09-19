@@ -10,6 +10,7 @@ Case fictício de produção audiovisual B2B desenvolvido para demonstrar o uso 
 
 - **Vídeo master 16:9:** [Assistir no YouTube](https://youtu.be/g3UcoU2q7po)
 - **Versão vertical 9:16 para redes sociais:** [Assistir no YouTube Shorts](https://youtube.com/shorts/wTD_cQPp8SM?feature=share)
+- **Versão 4:5 para feed:** adaptação aprovada e testada no Instagram, mantendo o mesmo sistema visual do template multiformato.
 
 > **Aviso:** a NEXA Saneantes é uma marca fictícia criada exclusivamente para fins de portfólio. Os produtos, embalagens, personagens e materiais apresentados neste projeto não representam uma empresa ou produto comercial real.
 
@@ -164,9 +165,11 @@ A versão final utiliza:
 
 ### Fluxo definido
 
-**MASTER 16:9 → CORTE SOCIAL → TEMPLATE 9:16**
+**MASTER 16:9 → CORTE SOCIAL → TEMPLATE 9:16 / TEMPLATE 4:5**
 
-O conteúdo principal é desenvolvido primeiro no formato master. Em seguida, os trechos aprovados são selecionados manualmente para a versão social e inseridos em uma composição vertical própria.
+O conteúdo principal é desenvolvido primeiro no formato master. Em seguida, os trechos aprovados são selecionados manualmente para as versões sociais e inseridos em composições próprias para cada proporção.
+
+A versão **4:5 (1080 × 1350)** segue o mesmo princípio do template 9:16: preservar o vídeo principal sem crop agressivo, manter fundo grafite/preto fosco, identidade NEXA, hierarquia visual e áreas fixas para marca e identificação da linha. Como o 4:5 oferece mais largura útil, o vídeo horizontal pode ocupar uma área proporcionalmente maior, com faixas superior e inferior mais compactas.
 
 A regra consolidada foi:
 
@@ -176,7 +179,12 @@ Esse processo evita depender de crop agressivo e transforma a adaptação vertic
 
 ### Resultado
 
-A versão vertical final foi publicada como demonstração do processo de adaptação multiformato:
+O sistema foi validado em duas adaptações sociais:
+
+- **9:16** para Reels/Shorts;
+- **4:5** para feed do Instagram.
+
+A versão 4:5 foi testada diretamente no Instagram e preservou corretamente enquadramento, apresentadora, produtos e identidade visual, confirmando que o mesmo padrão de template pode ser reutilizado em diferentes proporções.
 
 **[▶ Assistir à versão 9:16 no YouTube Shorts](https://youtube.com/shorts/wTD_cQPp8SM?feature=share)**
 
@@ -200,7 +208,7 @@ A campanha foi construída com:
 - superfícies metálicas e iluminação suave;
 - paleta verde-petróleo, grafite, branco e tons neutros;
 - enquadramento 16:9 como formato master;
-- master em 16:9 com adaptação vertical 9:16 realizada por layout dedicado, evitando crop agressivo;
+- master em 16:9 com adaptações 9:16 e 4:5 realizadas por layouts dedicados, evitando crop agressivo;
 - movimento de câmera discreto e cinematográfico;
 - estética limpa, sem excesso de textos ou efeitos.
 
@@ -244,7 +252,8 @@ Este projeto reforçou alguns princípios de produção audiovisual com IA:
 - áudio deve ser tratado separadamente quando se busca padrão profissional;
 - cenas devem ser geradas e aprovadas individualmente;
 - a curadoria humana continua sendo decisiva para transformar gerações isoladas em uma campanha coerente;
-- adaptação 16:9 → 9:16 funciona melhor como projeto de composição e edição do que como simples recorte automático.
+- adaptação 16:9 → 9:16 funciona melhor como projeto de composição e edição do que como simples recorte automático;
+- o mesmo sistema de template pode ser derivado para 4:5, preservando consistência visual sem recriar toda a peça.
 
 ## 📌 Escopo
 
