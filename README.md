@@ -1,20 +1,15 @@
 # NEXA Saneantes — Campanha Audiovisual com IA
 
-🎥 **Assista ao vídeo no YouTube:**  
-[https://youtu.be/g3UcoU2q7po](https://youtu.be/g3UcoU2q7po)
-
-[![Capa do projeto NEXA](./file_00000000e1ac820e82afb40bd05a332f.png)](https://youtu.be/g3UcoU2q7po)
-
-## 📒 Descrição
-Case fictício de campanha audiovisual B2B para saneantes, criado com IA generativa, personagem virtual, direção criativa e edição no CapCut.
-
-# NEXA Saneantes — Campanha Audiovisual com IA
-
 <p align="center">
   <img src="file_00000000e1ac820e82afb40bd05a332f.png" alt="Capa do projeto NEXA Saneantes — Apresentação da Linha de Produtos" width="100%">
 </p>
 
-Case fictício de produção audiovisual B2B desenvolvido para demonstrar o uso de inteligência artificial generativa, direção criativa, personagem virtual e edição na comunicação de uma marca de saneantes.
+Case fictício de produção audiovisual B2B desenvolvido para demonstrar o uso de inteligência artificial generativa, direção criativa, personagem virtual, edição e adaptação multiformato na comunicação de uma marca de saneantes.
+
+## 🎥 Vídeos do case
+
+- **Vídeo master 16:9:** [Assistir no YouTube](https://youtu.be/g3UcoU2q7po)
+- **Versão vertical 9:16 para redes sociais:** [Assistir no YouTube Shorts](https://youtube.com/shorts/wTD_cQPp8SM?feature=share)
 
 > **Aviso:** a NEXA Saneantes é uma marca fictícia criada exclusivamente para fins de portfólio. Os produtos, embalagens, personagens e materiais apresentados neste projeto não representam uma empresa ou produto comercial real.
 
@@ -140,6 +135,51 @@ Algumas cenas receberam trilha sonora automática enquanto outras vieram apenas 
 
 **Novo padrão definido:** gerar cenas sem música e realizar trilha, efeitos e mixagem posteriormente no CapCut. Em vídeos técnicos, sons ambientes podem ser adicionados separadamente para maior controle e realismo.
 
+## 📐 Solução multiformato — de 16:9 para 9:16
+
+Durante a evolução do projeto surgiu um problema prático: o vídeo principal havia sido concebido em **16:9**, mas a adaptação direta para **9:16** por recorte automático comprometia partes importantes da composição, incluindo apresentadora, produtos e contexto de cena.
+
+### Problema observado
+
+Foram testadas abordagens automáticas de corte e reformatação. Em diferentes tentativas, o enquadramento vertical:
+
+- eliminava partes relevantes do produto ou do cenário;
+- priorizava a personagem em detrimento da informação comercial;
+- alterava o equilíbrio visual criado para o master 16:9;
+- introduzia cortes pouco coerentes quando ferramentas automáticas selecionavam trechos intermediários ou materiais de teste.
+
+### Solução adotada
+
+Em vez de forçar o vídeo horizontal a ocupar toda a tela vertical, foi criado um **layout 9:16 próprio**, com o vídeo 16:9 preservado em uma área central e a identidade visual da NEXA estruturando o restante da composição.
+
+A versão final utiliza:
+
+- fundo grafite/preto fosco;
+- identidade NEXA no topo;
+- vídeo horizontal central preservando apresentadora, produto e cenário;
+- identificação da linha e assinatura visual na área inferior;
+- cortes manuais com preservação de frases completas;
+- duração reduzida para uso em redes sociais;
+- encerramento simplificado para evitar redundância de marca.
+
+### Fluxo definido
+
+**MASTER 16:9 → CORTE SOCIAL → TEMPLATE 9:16**
+
+O conteúdo principal é desenvolvido primeiro no formato master. Em seguida, os trechos aprovados são selecionados manualmente para a versão social e inseridos em uma composição vertical própria.
+
+A regra consolidada foi:
+
+> **Criar para o formato principal, mas compor para sobreviver ao formato secundário.**
+
+Esse processo evita depender de crop agressivo e transforma a adaptação vertical em uma etapa real de direção e edição, e não apenas em uma conversão automática.
+
+### Resultado
+
+A versão vertical final foi publicada como demonstração do processo de adaptação multiformato:
+
+**[▶ Assistir à versão 9:16 no YouTube Shorts](https://youtube.com/shorts/wTD_cQPp8SM?feature=share)**
+
 ## 🎧 Padrão de áudio adotado
 
 A partir deste projeto, o fluxo recomendado passou a ser:
@@ -160,7 +200,7 @@ A campanha foi construída com:
 - superfícies metálicas e iluminação suave;
 - paleta verde-petróleo, grafite, branco e tons neutros;
 - enquadramento 16:9 como formato master;
-- adaptação prevista para 9:16 em Reels/Stories e 4:5 quando necessário;
+- master em 16:9 com adaptação vertical 9:16 realizada por layout dedicado, evitando crop agressivo;
 - movimento de câmera discreto e cinematográfico;
 - estética limpa, sem excesso de textos ou efeitos.
 
@@ -182,9 +222,10 @@ O projeto consolidou um fluxo híbrido de produção: a IA foi utilizada para cr
 
 O resultado demonstra que a produção audiovisual com IA pode atingir nível comercial quando a geração é tratada como uma etapa do processo — e não como substituto integral da direção, edição e controle de qualidade.
 
-### 🎥 Vídeo final
+### 🎥 Vídeos finais
 
-**[▶ Assistir ao vídeo final da campanha NEXA Saneantes no YouTube](https://youtu.be/g3UcoU2q7po)**
+- **[▶ Assistir ao vídeo master 16:9 da campanha NEXA Saneantes](https://youtu.be/g3UcoU2q7po)**
+- **[▶ Assistir à versão vertical 9:16 para redes sociais](https://youtube.com/shorts/wTD_cQPp8SM?feature=share)**
 
 ## 🔬 Evolução do projeto
 
@@ -202,7 +243,8 @@ Este projeto reforçou alguns princípios de produção audiovisual com IA:
 - produtos com rótulos complexos precisam de validação visual rigorosa;
 - áudio deve ser tratado separadamente quando se busca padrão profissional;
 - cenas devem ser geradas e aprovadas individualmente;
-- a curadoria humana continua sendo decisiva para transformar gerações isoladas em uma campanha coerente.
+- a curadoria humana continua sendo decisiva para transformar gerações isoladas em uma campanha coerente;
+- adaptação 16:9 → 9:16 funciona melhor como projeto de composição e edição do que como simples recorte automático.
 
 ## 📌 Escopo
 
